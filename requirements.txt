@@ -1,9 +1,9 @@
 imutils==0.5.3
 keras==2.4.2
-opencv-python
+opencv-python==4.8.0.76
 matplotlib==3.2.2
 numpy==1.18.5
-pillow==7.1.2
+pillow==7.1.2s
 prompt-toolkit==3.0.5
 scikit-learn==0.23.1
 tensorflow==2.2.0
