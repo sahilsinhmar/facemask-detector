@@ -1,4 +1,4 @@
-imutils==0.5.3
+imutils
 keras
 opencv-python
 matplotlib
