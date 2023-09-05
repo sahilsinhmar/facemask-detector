@@ -1,0 +1,9 @@
+keras
+opencv-python
+matplotlib
+numpy
+pillow
+prompt-toolkit
+scikit-learn
+tensorflow
+tensorflowjs
