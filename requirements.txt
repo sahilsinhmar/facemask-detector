@@ -1,4 +1,5 @@
 keras
+imutils
 opencv-python
 matplotlib
 numpy
@@ -7,3 +8,4 @@ prompt-toolkit
 scikit-learn
 tensorflow
 tensorflowjs
+scipy
