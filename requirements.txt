@@ -1,7 +1,7 @@
 keras
 opencv-python
 matplotlib
-numpy==1.18.5
+numpy
 pillow
 prompt-toolkit
 scikit-learn
